@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Essay Media & Society I"
 date:   2015-09-06 18:16:00
 categories: jekyll update
 ---
