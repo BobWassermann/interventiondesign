@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Design en mijn rol als designer”
+title:  Design en mijn rol als designer
 date:   2015-09-08 08:32:00
 categories: design-theory
 ---
