@@ -2,7 +2,7 @@
 layout: post
 title:  Probleemstelling en leeslijstje
 date:   2015-09-08 08:48:00
-categories: research
+categories: research-single
 ---
 
 ## Voorlopige probleemsteling

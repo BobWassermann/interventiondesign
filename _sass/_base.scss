@@ -81,6 +81,38 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    background: #fff;
+    color: #000;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0.3em 1em;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    margin-right: 35px;
+    margin-bottom: 35px;
+}
+
+h1 {
+    font-size: 58px;
+
+    article & {
+        margin: 1.5em 0 1em;
+    }
+
+}
+
+h2 {
+    font-size: 24px;
+
+    article & {
+        display: block;
+        background: none;
+        color: #fff;
+        padding: 0;
+        box-shadow: none;
+        margin: 2em 0 1em;
+        text-align: center;
+        font-size: 42px;
+    }
 }
 
 
@@ -108,15 +140,29 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
-
-    > :last-child {
-        margin-bottom: 0;
+    position: relative;
+    img {
+        height: 800px;
+        border-radius: 5px;
+        box-shadow: 10px 10px 100px rgba(0,0,0,0.5);
+    }
+    em, strong { position: absolute; color: #FF6900; }
+    em {
+        top: 50%;
+        transform: translate3d(-15%, -50%, 0);
+        font-size: 10em;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        font-style: normal;
+        line-height: 1.2em;
+    }
+    strong {
+        position: absolute;
+        bottom: 0;
+        font-size: 2em;
+        font-weight: normal;
+        text-align: center;
+        transform: translateY(1em);
     }
 }
 
@@ -148,7 +194,36 @@ pre {
     }
 }
 
+/**
+ * Article
+ */
+article .part {
+    column-count: 3;
+    p:first-child {
+        margin: 0;
+    }
+}
 
+article img {
+    display: block;
+    margin: 100px auto;
+}
+
+article p {
+    margin: 1em 0;
+}
+
+article a {
+    color: #fff !important;
+    border-bottom: 1px solid #fff;
+    vertical-align: super;
+    font-size: 0.7em;
+
+    &:hover {
+        text-decoration: none;
+        border-bottom: none;
+    }
+}
 
 /**
  * Wrapper
@@ -171,6 +246,29 @@ pre {
 }
 
 
+
+table {
+    width: 100%;
+    background: rgba(255,255,255,0.2);
+    padding: 2em;
+    box-sizing: border-box;
+    margin: 50px auto;
+
+    th {
+        text-align: left;
+        padding: 0.5em;
+    }
+
+    tr {
+        &:nth-child(even) {
+            background: rgba(255,255,255,0.1);
+        }
+    }
+
+    td {
+        padding: 0.5em;
+    }
+}
 
 /**
  * Clearfix

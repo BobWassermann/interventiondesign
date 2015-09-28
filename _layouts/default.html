@@ -3,7 +3,11 @@
 
   {% include head.html %}
 
-  <body>
+  <body
+    data-100p="background: rgb(21, 50, 85)"
+    data-450p="background: rgb(21, 20, 70)"
+    data-700p="background: rgb(0, 158, 122)"
+    data-1200p="background: rgb(0, 0, 0)">
 
     {% include header.html %}
 
@@ -15,6 +19,13 @@
 
     {% include footer.html %}
 
+    <!-- Scripts -->
+    <script src="https://use.typekit.net/xqq6wav.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script src="bower_components/skrollr/dist/skrollr.min.js"></script>
+    <script type="text/javascript">
+    var s = skrollr.init();
+    </script>
   </body>
 
 </html>
