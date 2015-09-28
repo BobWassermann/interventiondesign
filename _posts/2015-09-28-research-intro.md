@@ -112,12 +112,18 @@ Door niet tijd-en plaatsgebonden te zijn hoeft je werkplek niet per se je woonpl
 
 Met de opkomst van “het nieuwe werken” hebben we de mogelijkheid gekregen een nomaden-bestaan te leven. We kunnen overal ter wereld ons werk verrichten en van plek tot plek reizen om nieuwe (zakelijke) uitdagingen aan te gaan.
 
-De term *digital nomad* komt vaak voor in media. De term betekend dat je door middel van techonologie de mogelijkheid hebt vanaf iedere plek te kunnen werken/communiceren. Leuke term, maar naar mijn mening past *nieuwe nomaden* beter bij wat wij willen zijn. 
+De term *digital nomad* komt vaak voor in media. De term betekend dat je door middel van techonologie de mogelijkheid hebt vanaf iedere plek te kunnen werken/communiceren. Leuke term, maar naar mijn mening past *nieuwe nomaden* beter bij wat wij willen zijn. Misschien is de oplossing wel helemaal niet digitaal.
 
-Het enige wat mist is je tribe. In een Playboy interview van 1969 (http://web.cs.ucdavis.edu/~rogaway/classes/188/spring07/mcluhan.pdf) omschrijft Marshall McLuhan dit. Een tribe is een groep mensen waar jij deel van uitmaakt, ze delen de zelfde interesses en soms ook de zelfde professie. Deze mensen kunnen over de hele wereld leven (global village). Het enige probleem nu is dat je deze mensen nog niet kent.
+Het enige wat mist is je tribe. In een [Playboy interview van 1969](http://web.cs.ucdavis.edu/~rogaway/classes/188/spring07/mcluhan.pdf) omschrijft Marshall McLuhan dit. Een tribe is een groep mensen waar jij deel van uitmaakt, ze delen de zelfde interesses en soms ook de zelfde professie. Deze mensen kunnen over de hele wereld leven (global village). Het enige probleem nu is dat je deze mensen nog niet kent. Hier willen wij verandering in brengen.
+
+Wij willen een platform opzetten waarin mensen hun ruimte beschikbaar kunnen stellen voor andere mensen om daar te komen werken (terwijl zij dat ook doen). Wi-Fi is het magische woord hier. Het excuus is namelijk dat je samen in één ruimte gaat werken om van het Wi-Fi-netwerk gebruik te mogen maken. Uiteindelijk is dit slechts een opstapje naar nieuwe sociale contacten leggen.
 
 
 </div>
+
+> **We all live on one planet, there is no reason to feel alienated. We’re all connected by our humanity, our stories. If our designs don’t carry that humanity, then we may as well design for machines**
+> *Meng To*
+> ![Meng To](img/meng-to.jpg)
 
 # 4. De nieuwe koffie
 
