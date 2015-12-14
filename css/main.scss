@@ -53,7 +53,7 @@ $on-laptop:        800px;
 ;
 
 // Quick quote fix
-blockquote p {
+blockquote blockquote {
     padding-left: 20px;
     border-left: 2px solid #fff;
     font-style: italic;
