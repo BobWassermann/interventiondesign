@@ -51,3 +51,10 @@ $on-laptop:        800px;
         "syntax-highlighting",
         "hero"
 ;
+
+// Quick quote fix
+blockquote {
+    padding-left: 20px;
+    border-left: 2px solid #fff;
+    font-style: italic;
+}
