@@ -106,6 +106,25 @@ Voor vele van ons zal (of is dit al) binnenkort passé zijn. We verliezen nameli
 
 Door niet tijd-en plaatsgebonden te zijn hoeft je werkplek niet per se je woonplek te zijn (Remote office work: changing work patterns in space and time, Margrethe H. Olson, 1983). Sterker nog, je hoeft niet eens ergens te wonen. We creëren een nieuw nomaden-bestaan.
 
+Het idee van van niet meer gebonden zijn aan een plek en overal ter wereld je werk kunnen doen, sprak ons enorm aan. Om een beter idee te krijgen van hoe dit precies functioneerde hebben we een Skype-gesprek gevoerd met [Milan vd Bovenkamp](https://twitter.com/milann). We komen via [Theo Ploeg](https://twitter.com/theoploeg) bij Milan terecht. Theo heeft Milan namelijk laten afstuderen aan CMD Amsterdam.
+
+<div class="part" mardown="1">
+Milan is kort nadat hij afgestudeerd is op CMD aan de Hogeschool van Amsterdam steeds meer gaan reizen. Wat begon met bij iemand in het buitenland op de katten letten groeide uit tot een half jaar lang reizen terwijl hij dit combineert met zijn werk. Veel meer wisten we niet, dus we stelden een aantal vragen op voor ons gesprek met Milan. Denk hierbij aan vragen als "hoe ken je de mensen waar bij je op de katten gaat opppassen?" of "hoe financier je het eigenlijk allemaal?".
+
+Alle vragen en antwoorden zijn natuurlijk terug te lezen in het [transcript](https://www.dropbox.com/s/ygliphbq6rlbnrk/interview_milan.pdf?dl=0), maar op een aantal belangrijke vragen, maar vooral antwoorden wil ik nog even verder inhaken.
+
+Wij stelde de vraag:
+
+> ... hoe ken jij al die mensen in het buitenland dan?
+
+Waarop Milan antwoordde:
+
+> Ik ben actief bezig geweest in de startup-wereld en heb een heleboel mensen geholpen. Nu zit ik in een fase waar ik vaker een wederdienst krijg in de vorm van een slaapplek van die mensen. Ik ben van mening dat het ‘voor elkaar iets doen’ gedeelte veel vaker gedaan moet worden.
+
+Dit was een super interessant stuk voor ons. Wij gingen er eigenlijk al van uit dat mensen zoals Milan, ook wel digitale nomanden genoemd, vaak langs elkaar af reisde. Milan bewees echter het tegendeel. In het geval van Milan bestaat hij als digitale nomaad vooral omdat hij juist connecties legt en aan dienst-wederdienst doet. Uiteindelijk (ik schrijf dit stuk nadat het product gemaakt is) heeft deze informatie ervoor gezorgd dat wij het 'connectie' stuk uit onze app verwijderd hebben. Waar onze focus eerst lag op mensen met elkaar laten verbinden is onze focus uiteindelijk afgeweken naar het maken van een alternatieve reisgids, collaboratief, gemaakt door mensen die jij net niet kent.
+
+</div>
+
 # 3. De nieuwe nomaden
 
 <div class="part" markdown="1">
